@@ -105,4 +105,10 @@ We have to open the already implemented environment and add the IP address of RO
 
 ###### For more details about the components and the structure of the project, you can read the report.pdf file that exist in the repo.
 
+x-special/nautilus-clipboard
+copy
+file:///home/alaaeldin/Pictures/Screenshot%20from%202021-07-01%2019-18-25.png
+![Screenshot from 2021-07-01 19-18-25](https://user-images.githubusercontent.com/25705086/124192372-7ddd4e00-dac5-11eb-89b2-f1517efe0dca.png)
+
+
 
