@@ -18,6 +18,10 @@ This assignemt made by group Nav-05
 
 The follwoing graph show the software components that has been used to implement this assignment.
 
+x-special/nautilus-clipboard
+copy
+file:///home/alaaeldin/Downloads/Untitled%20Diagram%20(4).png
+![Untitled Diagram (4)](https://user-images.githubusercontent.com/25705086/124192255-48d0fb80-dac5-11eb-9e33-ff1e75122d01.png)
 
 
 ## Installing
