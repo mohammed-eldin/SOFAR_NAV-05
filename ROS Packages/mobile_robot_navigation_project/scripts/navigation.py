@@ -51,7 +51,7 @@ def clbk_target(pos):
     global target_position
 
     target_position=pos.pose.position
-    print("\ntarget settato")
+    print("\ntarget set")
     moveRobot()
 
     return
@@ -81,7 +81,7 @@ def distance():
     dist_y= actual_pos.y-target_position.y
 
     dist=math.sqrt(pow(dist_x, 2)+pow(dist_y, 2))
-    print("\nCalcolo distanza")
+    print("\nCalculate distance")
 	
     return dist
 
